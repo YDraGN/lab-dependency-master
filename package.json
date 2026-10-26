@@ -1,0 +1,18 @@
+{
+  "name": "dut-core-math-utils",
+  "version": "1.0.0",
+  "description": "Thư viện tối ưu hóa các phép toán đại số cho sinh viên kỹ nghệ phần mềm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nguyễn Thị Bảo Ngân",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
